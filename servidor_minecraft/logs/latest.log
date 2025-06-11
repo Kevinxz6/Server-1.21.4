@@ -168,3 +168,9 @@
 [22:13:37] [Server thread/INFO]: /stop
 [22:13:37] [Server thread/INFO]: /transfer <hostname> [<port>]
 [22:13:37] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[22:18:19] [Server thread/INFO]: Aifros[/127.185.103.251:58641] logged in with entity id 6 at (-5.5, 95.0, -9.5)
+[22:18:19] [Server thread/INFO]: Aifros joined the game
+[22:18:57] [Server thread/INFO]: Aifros lost connection: Disconnected
+[22:18:57] [Server thread/INFO]: Aifros left the game
+[22:19:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:25:41] [Server thread/INFO]: Seed: [-8255544343369469417]
