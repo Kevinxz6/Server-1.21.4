@@ -4,3 +4,14 @@
 [00:05:25] [Server thread/INFO]: Whitelist is now turned off
 [00:19:56] [Server thread/INFO]: Nothing changed. The player isn't banned
 [00:20:17] [Server thread/INFO]: Made NotKausaSAP a server operator
+[00:28:49] [Server thread/INFO]: Stopping the server
+[00:28:49] [Server thread/INFO]: Stopping server
+[00:28:49] [Server thread/INFO]: Saving players
+[00:28:49] [Server thread/INFO]: Saving worlds
+[00:28:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:28:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:28:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
