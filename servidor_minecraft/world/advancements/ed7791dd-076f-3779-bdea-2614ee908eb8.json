@@ -10,7 +10,9 @@
       "minecraft:old_growth_birch_forest": "2025-06-12 21:20:12 +0000",
       "minecraft:beach": "2025-06-12 21:13:00 +0000",
       "minecraft:forest": "2025-06-12 02:01:23 +0000",
+      "minecraft:sparse_jungle": "2025-06-12 21:24:51 +0000",
       "minecraft:ocean": "2025-06-12 21:13:21 +0000",
+      "minecraft:jungle": "2025-06-12 21:22:14 +0000",
       "minecraft:river": "2025-06-12 21:11:17 +0000",
       "minecraft:meadow": "2025-06-12 21:17:55 +0000",
       "minecraft:birch_forest": "2025-06-12 21:18:48 +0000",
@@ -262,6 +264,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-06-12 01:35:32 +0000",
+      "chicken": "2025-06-12 21:25:59 +0000",
       "bread": "2025-06-12 01:34:36 +0000",
       "cooked_mutton": "2025-06-12 01:57:54 +0000",
       "cooked_beef": "2025-06-12 01:50:49 +0000"
@@ -1502,15 +1505,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-12 21:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-06-12 21:04:12 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-12 21:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-06-12 21:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-12 21:25:54 +0000"
     },
     "done": true
   },
