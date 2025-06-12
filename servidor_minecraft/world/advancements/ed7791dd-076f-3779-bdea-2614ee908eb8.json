@@ -267,7 +267,8 @@
       "chicken": "2025-06-12 21:25:59 +0000",
       "bread": "2025-06-12 01:34:36 +0000",
       "cooked_mutton": "2025-06-12 01:57:54 +0000",
-      "cooked_beef": "2025-06-12 01:50:49 +0000"
+      "cooked_beef": "2025-06-12 01:50:49 +0000",
+      "beef": "2025-06-12 22:05:27 +0000"
     },
     "done": false
   },
@@ -1505,45 +1506,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-06-12 21:25:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-06-12 21:04:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-06-12 21:25:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-06-12 21:20:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-06-12 21:25:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/suspicious_stew_from_poppy": {
     "criteria": {
       "has_poppy": "2025-06-12 21:02:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-06-12 21:05:48 +0000"
     },
     "done": true
   },
@@ -1553,15 +1518,51 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-12 21:04:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-06-12 21:04:40 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-12 21:05:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-12 21:20:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-06-12 21:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-12 21:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-12 21:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-12 21:25:54 +0000"
     },
     "done": true
   },

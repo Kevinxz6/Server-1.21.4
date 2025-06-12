@@ -1,61 +1,133 @@
-[20:42:12] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
-[20:42:12] [main/INFO]: Loading 4 mods:
+[22:13:51] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
+[22:13:51] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.14
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.4
-[20:42:12] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server-1.21.4/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:42:17] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:42:19] [main/INFO]: Loaded 1370 recipes
-[20:42:19] [main/INFO]: Loaded 1481 advancements
-[20:42:19] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[20:42:19] [Server thread/INFO]: Loading properties
-[20:42:19] [Server thread/INFO]: Default game type: SURVIVAL
-[20:42:19] [Server thread/INFO]: Generating keypair
-[20:42:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:42:19] [Server thread/INFO]: Using epoll channel type
-[20:42:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:42:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:42:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:42:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:42:19] [Server thread/INFO]: Preparing level "world"
-[20:42:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:42:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:42:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:42:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:42:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:42:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:42:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:42:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:42:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:42:23] [Server thread/INFO]: Time elapsed: 3891 ms
-[20:42:23] [Server thread/INFO]: Done (4.172s)! For help, type "help"
-[20:43:00] [Server thread/INFO]: NotKausaSAP[/127.250.145.233:50719] logged in with entity id 34 at (108.30000001192093, 69.5625, 12.699999988079071)
-[20:43:00] [Server thread/INFO]: NotKausaSAP joined the game
-[20:43:03] [Server thread/WARN]: UUID of added entity already exists: class_1451['Cat'/389, l='ServerLevel[world]', x=-80.03, y=88.00, z=-67.90]
-[20:44:50] [Server thread/INFO]: NotKausaSAP has made the advancement [Stone Age]
-[20:46:41] [Server thread/INFO]: NotKausaSAP lost connection: Disconnected
-[20:46:41] [Server thread/INFO]: NotKausaSAP left the game
-[20:47:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:56:24] [Server thread/INFO]: Sr_Sebs[/127.166.25.141:49475] logged in with entity id 807 at (202.44597113517742, -14.0, 103.92808537986409)
-[20:56:24] [Server thread/INFO]: Sr_Sebs joined the game
-[20:56:25] [Server thread/WARN]: UUID of added entity already exists: class_1472['Sheep'/1098, l='ServerLevel[world]', x=343.52, y=64.00, z=-80.05]
-[20:56:25] [Server thread/WARN]: UUID of added entity already exists: class_1472['Sheep'/1121, l='ServerLevel[world]', x=365.01, y=67.00, z=-80.01]
-[21:04:12] [Server thread/INFO]: Sr_Sebs has made the advancement [Best Friends Forever]
-[21:05:19] [Server thread/WARN]: UUID of added entity already exists: class_1560['Enderman'/2493, l='ServerLevel[world]', x=-112.02, y=75.00, z=123.01]
-[21:05:48] [Server thread/INFO]: Sr_Sebs has made the advancement [Sweet Dreams]
-[21:06:53] [Server thread/INFO]: You whisper to Sr_Sebs: hi...
-[21:07:30] [Server thread/INFO]: You whisper to Sr_Sebs: estas progresando?
-[21:07:39] [Server thread/INFO]: [Not Secure] <Sr_Sebs> RECIEN ENTRO
-[21:07:47] [Server thread/INFO]: [Not Secure] <Sr_Sebs> me ponde a explorar aver
-[21:15:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:15:27] [Server thread/INFO]: ok<--[HERE]
-[21:16:20] [Server thread/INFO]: Sr_Sebs was impaled by Drowned
-[21:23:05] [Server thread/INFO]: [Not Secure] <Sr_Sebs> 746 446
-[21:27:02] [Server thread/INFO]: Sr_Sebs lost connection: Disconnected
-[21:27:02] [Server thread/INFO]: Sr_Sebs left the game
-[21:28:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:36:43] [Server thread/INFO]: No player was found
-[22:00:42] [Server thread/INFO]: NotKausaSAP[/127.250.145.233:38875] logged in with entity id 9907 at (112.58891792049282, 69.0, 15.374470815714517)
-[22:00:42] [Server thread/INFO]: NotKausaSAP joined the game
-[22:01:16] [Server thread/INFO]: NotKausaSAP has made the advancement [Diamonds!]
+[22:13:51] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server-1.21.4/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:13:57] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:13:58] [main/INFO]: Loaded 1370 recipes
+[22:13:58] [main/INFO]: Loaded 1481 advancements
+[22:13:59] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[22:13:59] [Server thread/INFO]: Loading properties
+[22:13:59] [Server thread/INFO]: Default game type: SURVIVAL
+[22:13:59] [Server thread/INFO]: Generating keypair
+[22:13:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:13:59] [Server thread/INFO]: Using epoll channel type
+[22:13:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:13:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:13:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:13:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:13:59] [Server thread/INFO]: Preparing level "world"
+[22:13:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:03] [Server thread/INFO]: Time elapsed: 4246 ms
+[22:14:03] [Server thread/INFO]: Done (4.500s)! For help, type "help"
+[22:14:17] [Server thread/INFO]: NotKausaSAP[/127.250.145.233:46353] logged in with entity id 44 at (112.02875042865173, 69.26636799395752, 13.717166088700544)
+[22:14:17] [Server thread/INFO]: NotKausaSAP joined the game
+[22:15:06] [Server thread/INFO]: NotKausaSAP has made the advancement [Acquire Hardware]
+[22:15:51] [Server thread/INFO]: NotKausaSAP has made the advancement [Getting an Upgrade]
+[22:16:47] [Server thread/INFO]: /advancement (grant|revoke)
+[22:16:47] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[22:16:47] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[22:16:47] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[22:16:47] [Server thread/INFO]: /clear [<targets>]
+[22:16:47] [Server thread/INFO]: /clone (<begin>|from)
+[22:16:47] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[22:16:47] [Server thread/INFO]: /data (merge|get|remove|modify)
+[22:16:47] [Server thread/INFO]: /datapack (enable|disable|list)
+[22:16:47] [Server thread/INFO]: /debug (start|stop|function)
+[22:16:47] [Server thread/INFO]: /defaultgamemode <gamemode>
+[22:16:47] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[22:16:47] [Server thread/INFO]: /effect (clear|give)
+[22:16:47] [Server thread/INFO]: /me <action>
+[22:16:47] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[22:16:47] [Server thread/INFO]: /experience (add|set|query)
+[22:16:47] [Server thread/INFO]: /xp -> experience
+[22:16:47] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[22:16:47] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[22:16:47] [Server thread/INFO]: /forceload (add|remove|query)
+[22:16:47] [Server thread/INFO]: /function <name> [<arguments>|with]
+[22:16:47] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[22:16:47] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disablePlayerMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[22:16:47] [Server thread/INFO]: /give <targets> <item> [<count>]
+[22:16:47] [Server thread/INFO]: /help [<command>]
+[22:16:47] [Server thread/INFO]: /item (replace|modify)
+[22:16:47] [Server thread/INFO]: /kick <targets> [<reason>]
+[22:16:47] [Server thread/INFO]: /kill [<targets>]
+[22:16:47] [Server thread/INFO]: /list [uuids]
+[22:16:47] [Server thread/INFO]: /locate (structure|biome|poi)
+[22:16:47] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[22:16:47] [Server thread/INFO]: /msg <targets> <message>
+[22:16:47] [Server thread/INFO]: /tell -> msg
+[22:16:47] [Server thread/INFO]: /w -> msg
+[22:16:47] [Server thread/INFO]: /particle <name> [<pos>]
+[22:16:47] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[22:16:47] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[22:16:47] [Server thread/INFO]: /random (value|roll|reset)
+[22:16:47] [Server thread/INFO]: /reload
+[22:16:47] [Server thread/INFO]: /recipe (give|take)
+[22:16:47] [Server thread/INFO]: /return (<value>|fail|run)
+[22:16:47] [Server thread/INFO]: /ride <target> (mount|dismount)
+[22:16:47] [Server thread/INFO]: /rotate <target> (<rotation>|facing)
+[22:16:47] [Server thread/INFO]: /say <message>
+[22:16:47] [Server thread/INFO]: /schedule (function|clear)
+[22:16:47] [Server thread/INFO]: /scoreboard (objectives|players)
+[22:16:47] [Server thread/INFO]: /seed
+[22:16:47] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[22:16:47] [Server thread/INFO]: /spawnpoint [<targets>]
+[22:16:47] [Server thread/INFO]: /setworldspawn [<pos>]
+[22:16:47] [Server thread/INFO]: /spectate [<target>]
+[22:16:47] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[22:16:47] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[22:16:47] [Server thread/INFO]: /summon <entity> [<pos>]
+[22:16:47] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[22:16:47] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[22:16:47] [Server thread/INFO]: /teammsg <message>
+[22:16:47] [Server thread/INFO]: /tm -> teammsg
+[22:16:47] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[22:16:47] [Server thread/INFO]: /tp -> teleport
+[22:16:47] [Server thread/INFO]: /tellraw <targets> <message>
+[22:16:47] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[22:16:47] [Server thread/INFO]: /time (set|add|query)
+[22:16:47] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[22:16:47] [Server thread/INFO]: /trigger <objective> [add|set]
+[22:16:47] [Server thread/INFO]: /weather (clear|rain|thunder)
+[22:16:47] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[22:16:47] [Server thread/INFO]: /jfr (start|stop)
+[22:16:47] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[22:16:47] [Server thread/INFO]: /banlist [ips|players]
+[22:16:47] [Server thread/INFO]: /ban <targets> [<reason>]
+[22:16:47] [Server thread/INFO]: /deop <targets>
+[22:16:47] [Server thread/INFO]: /op <targets>
+[22:16:47] [Server thread/INFO]: /pardon <targets>
+[22:16:47] [Server thread/INFO]: /pardon-ip <target>
+[22:16:47] [Server thread/INFO]: /perf (start|stop)
+[22:16:47] [Server thread/INFO]: /save-all [flush]
+[22:16:47] [Server thread/INFO]: /save-off
+[22:16:47] [Server thread/INFO]: /save-on
+[22:16:47] [Server thread/INFO]: /setidletimeout <minutes>
+[22:16:47] [Server thread/INFO]: /stop
+[22:16:47] [Server thread/INFO]: /transfer <hostname> [<port>]
+[22:16:47] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[22:17:36] [Server thread/INFO]: Incorrect argument for command
+[22:17:36] [Server thread/INFO]: ...tKausaSAP 10<--[HERE]
+[22:17:47] [Server thread/INFO]: Made NotKausaSAP a server operator
+[22:17:57] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Creative Mode]
+[22:18:15] [Server thread/INFO]: NotKausaSAP has made the advancement [Suit Up]
+[22:18:27] [Server thread/INFO]: NotKausaSAP has made the advancement [Cover Me with Diamonds]
+[22:19:43] [Server thread/INFO]: Sr_Sebs[/127.166.25.141:38465] logged in with entity id 920 at (954.256147215547, 64.0, 340.7442889217016)
+[22:19:43] [Server thread/INFO]: Sr_Sebs joined the game
+[22:19:48] [Server thread/INFO]: [Not Secure] <NotKausaSAP> hii
+[22:22:04] [Server thread/INFO]: [Not Secure] <NotKausaSAP> ontas?
+[22:22:19] [Server thread/INFO]: [Not Secure] <Sr_Sebs> en 830 con 400
+[22:22:27] [Server thread/INFO]: [Not Secure] <Sr_Sebs> pero creo que me matare
+[22:22:31] [Server thread/INFO]: [Not Secure] <NotKausaSAP> su madre jaaj
