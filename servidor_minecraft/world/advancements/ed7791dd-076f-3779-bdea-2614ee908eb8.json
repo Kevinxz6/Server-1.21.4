@@ -272,7 +272,9 @@
       "cooked_mutton": "2025-06-12 01:57:54 +0000",
       "cooked_beef": "2025-06-12 01:50:49 +0000",
       "beef": "2025-06-12 22:05:27 +0000",
-      "baked_potato": "2025-06-12 23:17:08 +0000"
+      "baked_potato": "2025-06-12 23:17:08 +0000",
+      "porkchop": "2025-06-12 23:42:32 +0000",
+      "carrot": "2025-06-12 23:33:39 +0000"
     },
     "done": false
   },
@@ -508,10 +510,12 @@
     "criteria": {
       "minecraft:cave_spider": "2025-06-12 02:19:33 +0000",
       "minecraft:skeleton": "2025-06-12 01:43:15 +0000",
+      "minecraft:piglin": "2025-06-12 23:37:24 +0000",
       "minecraft:enderman": "2025-06-12 22:29:22 +0000",
       "minecraft:spider": "2025-06-12 01:39:21 +0000",
       "minecraft:zombie": "2025-06-12 01:43:48 +0000",
-      "minecraft:drowned": "2025-06-12 21:14:08 +0000"
+      "minecraft:drowned": "2025-06-12 21:14:08 +0000",
+      "minecraft:hoglin": "2025-06-12 23:42:21 +0000"
     },
     "done": false
   },
@@ -1900,6 +1904,108 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-06-12 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-12 23:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-06-12 23:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-12 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-06-12 23:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-06-12 23:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-12 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-12 23:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-12 23:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-12 23:38:37 +0000"
     },
     "done": true
   },
