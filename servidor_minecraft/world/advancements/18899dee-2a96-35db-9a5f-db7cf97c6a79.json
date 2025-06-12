@@ -378,6 +378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 22:15:06 +0000"
@@ -432,6 +438,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 22:15:06 +0000"
@@ -441,6 +459,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-06-12 22:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
     },
     "done": true
   },
@@ -462,6 +486,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 22:15:06 +0000"
@@ -471,6 +519,24 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 22:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
     },
     "done": true
   },
@@ -486,6 +552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-06-12 22:15:22 +0000"
@@ -498,9 +570,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-12 22:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-06-12 23:00:29 +0000"
     },
     "done": true
   },
@@ -513,6 +603,18 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 22:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 23:01:48 +0000"
     },
     "done": true
   },
@@ -531,6 +633,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 22:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-06-12 23:00:29 +0000"
     },
     "done": true
   },
@@ -558,9 +666,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 22:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
     },
     "done": true
   },
@@ -606,6 +726,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-06-12 22:19:43 +0000"
@@ -618,9 +750,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-06-12 22:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
     },
     "done": true
   },
@@ -654,6 +816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-12 22:21:04 +0000"
@@ -672,6 +840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 22:15:06 +0000"
@@ -681,6 +855,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-06-12 22:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:01:58 +0000"
     },
     "done": true
   },
@@ -700,6 +880,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-06-12 22:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
     },
     "done": true
   },
@@ -739,6 +925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 22:15:06 +0000"
@@ -748,6 +940,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-06-12 22:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:01:58 +0000"
     },
     "done": true
   },
@@ -841,6 +1039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-06-12 22:19:43 +0000"
@@ -853,9 +1057,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-12 23:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-06-12 22:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-12 23:01:48 +0000"
     },
     "done": true
   },
