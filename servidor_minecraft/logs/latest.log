@@ -37,3 +37,7 @@
 [20:46:41] [Server thread/INFO]: NotKausaSAP lost connection: Disconnected
 [20:46:41] [Server thread/INFO]: NotKausaSAP left the game
 [20:47:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:56:24] [Server thread/INFO]: Sr_Sebs[/127.166.25.141:49475] logged in with entity id 807 at (202.44597113517742, -14.0, 103.92808537986409)
+[20:56:24] [Server thread/INFO]: Sr_Sebs joined the game
+[20:56:25] [Server thread/WARN]: UUID of added entity already exists: class_1472['Sheep'/1098, l='ServerLevel[world]', x=343.52, y=64.00, z=-80.05]
+[20:56:25] [Server thread/WARN]: UUID of added entity already exists: class_1472['Sheep'/1121, l='ServerLevel[world]', x=365.01, y=67.00, z=-80.01]
