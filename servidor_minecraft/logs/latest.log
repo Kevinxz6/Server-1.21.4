@@ -1,295 +1,66 @@
-[22:13:51] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
-[22:13:51] [main/INFO]: Loading 4 mods:
+[23:27:18] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
+[23:27:18] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.14
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.4
-[22:13:51] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server-1.21.4/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:13:57] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:13:58] [main/INFO]: Loaded 1370 recipes
-[22:13:58] [main/INFO]: Loaded 1481 advancements
-[22:13:59] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[22:13:59] [Server thread/INFO]: Loading properties
-[22:13:59] [Server thread/INFO]: Default game type: SURVIVAL
-[22:13:59] [Server thread/INFO]: Generating keypair
-[22:13:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:13:59] [Server thread/INFO]: Using epoll channel type
-[22:13:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:13:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:13:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:13:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:13:59] [Server thread/INFO]: Preparing level "world"
-[22:13:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:14:03] [Server thread/INFO]: Time elapsed: 4246 ms
-[22:14:03] [Server thread/INFO]: Done (4.500s)! For help, type "help"
-[22:14:17] [Server thread/INFO]: NotKausaSAP[/127.250.145.233:46353] logged in with entity id 44 at (112.02875042865173, 69.26636799395752, 13.717166088700544)
-[22:14:17] [Server thread/INFO]: NotKausaSAP joined the game
-[22:15:06] [Server thread/INFO]: NotKausaSAP has made the advancement [Acquire Hardware]
-[22:15:51] [Server thread/INFO]: NotKausaSAP has made the advancement [Getting an Upgrade]
-[22:16:47] [Server thread/INFO]: /advancement (grant|revoke)
-[22:16:47] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[22:16:47] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[22:16:47] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[22:16:47] [Server thread/INFO]: /clear [<targets>]
-[22:16:47] [Server thread/INFO]: /clone (<begin>|from)
-[22:16:47] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
-[22:16:47] [Server thread/INFO]: /data (merge|get|remove|modify)
-[22:16:47] [Server thread/INFO]: /datapack (enable|disable|list)
-[22:16:47] [Server thread/INFO]: /debug (start|stop|function)
-[22:16:47] [Server thread/INFO]: /defaultgamemode <gamemode>
-[22:16:47] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[22:16:47] [Server thread/INFO]: /effect (clear|give)
-[22:16:47] [Server thread/INFO]: /me <action>
-[22:16:47] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[22:16:47] [Server thread/INFO]: /experience (add|set|query)
-[22:16:47] [Server thread/INFO]: /xp -> experience
-[22:16:47] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[22:16:47] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[22:16:47] [Server thread/INFO]: /forceload (add|remove|query)
-[22:16:47] [Server thread/INFO]: /function <name> [<arguments>|with]
-[22:16:47] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[22:16:47] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disablePlayerMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[22:16:47] [Server thread/INFO]: /give <targets> <item> [<count>]
-[22:16:47] [Server thread/INFO]: /help [<command>]
-[22:16:47] [Server thread/INFO]: /item (replace|modify)
-[22:16:47] [Server thread/INFO]: /kick <targets> [<reason>]
-[22:16:47] [Server thread/INFO]: /kill [<targets>]
-[22:16:47] [Server thread/INFO]: /list [uuids]
-[22:16:47] [Server thread/INFO]: /locate (structure|biome|poi)
-[22:16:47] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[22:16:47] [Server thread/INFO]: /msg <targets> <message>
-[22:16:47] [Server thread/INFO]: /tell -> msg
-[22:16:47] [Server thread/INFO]: /w -> msg
-[22:16:47] [Server thread/INFO]: /particle <name> [<pos>]
-[22:16:47] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[22:16:47] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[22:16:47] [Server thread/INFO]: /random (value|roll|reset)
-[22:16:47] [Server thread/INFO]: /reload
-[22:16:47] [Server thread/INFO]: /recipe (give|take)
-[22:16:47] [Server thread/INFO]: /return (<value>|fail|run)
-[22:16:47] [Server thread/INFO]: /ride <target> (mount|dismount)
-[22:16:47] [Server thread/INFO]: /rotate <target> (<rotation>|facing)
-[22:16:47] [Server thread/INFO]: /say <message>
-[22:16:47] [Server thread/INFO]: /schedule (function|clear)
-[22:16:47] [Server thread/INFO]: /scoreboard (objectives|players)
-[22:16:47] [Server thread/INFO]: /seed
-[22:16:47] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[22:16:47] [Server thread/INFO]: /spawnpoint [<targets>]
-[22:16:47] [Server thread/INFO]: /setworldspawn [<pos>]
-[22:16:47] [Server thread/INFO]: /spectate [<target>]
-[22:16:47] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[22:16:47] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[22:16:47] [Server thread/INFO]: /summon <entity> [<pos>]
-[22:16:47] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[22:16:47] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[22:16:47] [Server thread/INFO]: /teammsg <message>
-[22:16:47] [Server thread/INFO]: /tm -> teammsg
-[22:16:47] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[22:16:47] [Server thread/INFO]: /tp -> teleport
-[22:16:47] [Server thread/INFO]: /tellraw <targets> <message>
-[22:16:47] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
-[22:16:47] [Server thread/INFO]: /time (set|add|query)
-[22:16:47] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[22:16:47] [Server thread/INFO]: /trigger <objective> [add|set]
-[22:16:47] [Server thread/INFO]: /weather (clear|rain|thunder)
-[22:16:47] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[22:16:47] [Server thread/INFO]: /jfr (start|stop)
-[22:16:47] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[22:16:47] [Server thread/INFO]: /banlist [ips|players]
-[22:16:47] [Server thread/INFO]: /ban <targets> [<reason>]
-[22:16:47] [Server thread/INFO]: /deop <targets>
-[22:16:47] [Server thread/INFO]: /op <targets>
-[22:16:47] [Server thread/INFO]: /pardon <targets>
-[22:16:47] [Server thread/INFO]: /pardon-ip <target>
-[22:16:47] [Server thread/INFO]: /perf (start|stop)
-[22:16:47] [Server thread/INFO]: /save-all [flush]
-[22:16:47] [Server thread/INFO]: /save-off
-[22:16:47] [Server thread/INFO]: /save-on
-[22:16:47] [Server thread/INFO]: /setidletimeout <minutes>
-[22:16:47] [Server thread/INFO]: /stop
-[22:16:47] [Server thread/INFO]: /transfer <hostname> [<port>]
-[22:16:47] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[22:17:36] [Server thread/INFO]: Incorrect argument for command
-[22:17:36] [Server thread/INFO]: ...tKausaSAP 10<--[HERE]
-[22:17:47] [Server thread/INFO]: Made NotKausaSAP a server operator
-[22:17:57] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Creative Mode]
-[22:18:15] [Server thread/INFO]: NotKausaSAP has made the advancement [Suit Up]
-[22:18:27] [Server thread/INFO]: NotKausaSAP has made the advancement [Cover Me with Diamonds]
-[22:19:43] [Server thread/INFO]: Sr_Sebs[/127.166.25.141:38465] logged in with entity id 920 at (954.256147215547, 64.0, 340.7442889217016)
-[22:19:43] [Server thread/INFO]: Sr_Sebs joined the game
-[22:19:48] [Server thread/INFO]: [Not Secure] <NotKausaSAP> hii
-[22:22:04] [Server thread/INFO]: [Not Secure] <NotKausaSAP> ontas?
-[22:22:19] [Server thread/INFO]: [Not Secure] <Sr_Sebs> en 830 con 400
-[22:22:27] [Server thread/INFO]: [Not Secure] <Sr_Sebs> pero creo que me matare
-[22:22:31] [Server thread/INFO]: [Not Secure] <NotKausaSAP> su madre jaaj
-[22:24:00] [Server thread/INFO]: [Not Secure] <Sr_Sebs> jajaja
-[22:24:25] [Server thread/INFO]: Sr_Sebs drowned
-[22:24:29] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Survival Mode]
-[22:25:08] [Server thread/INFO]: [Not Secure] <NotKausaSAP> consegui diamantes
-[22:25:15] [Server thread/INFO]: [Not Secure] <NotKausaSAP> tengo 10 de sobra
-[22:25:17] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Creative Mode]
-[22:25:23] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Survival Mode]
-[22:25:40] [Server thread/INFO]: [Not Secure] <Sr_Sebs> ahi yo deje lo que consegui
-[22:26:08] [Server thread/INFO]: NotKausaSAP has made the advancement [A Seedy Place]
-[22:26:34] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Creative Mode]
-[22:27:07] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Survival Mode]
-[22:27:34] [Server thread/INFO]: [Not Secure] <Sr_Sebs> tu usas xray?
-[22:27:38] [Server thread/INFO]: [Not Secure] <NotKausaSAP> nel
-[22:27:51] [Server thread/INFO]: [Not Secure] <NotKausaSAP> ya llevaba mas de 30 min de mina xd
-[22:29:42] [Server thread/INFO]: [NotKausaSAP: Played sound minecraft:block.anvil.hit to NotKausaSAP]
-[22:30:01] [Server thread/INFO]: NotKausaSAP has made the advancement [Monster Hunter]
-[22:30:15] [Server thread/INFO]: [Not Secure] <NotKausaSAP> wth se me reicio el logro?
-[22:30:43] [Server thread/INFO]: [Not Secure] <NotKausaSAP> durmamos
-[22:30:55] [Server thread/INFO]: [Not Secure] <Sr_Sebs> ya
-[22:31:28] [Server thread/INFO]: [Not Secure] <NotKausaSAP> consigue materiales para la granja de aldeanos de 4 modulos
-[22:31:39] [Server thread/INFO]: [Not Secure] <NotKausaSAP> mientras yo aplano
-[22:32:31] [Server thread/INFO]: [Not Secure] <Sr_Sebs> cual es esa?
-[22:32:41] [Server thread/INFO]: [Not Secure] <NotKausaSAP> trae 4 stacks de madera
-[22:32:49] [Server thread/INFO]: [Not Secure] <NotKausaSAP> 2 y medio de piedra
-[22:33:08] [Server thread/INFO]: [Not Secure] <NotKausaSAP> 4 de arena y como 30 de lana
-[22:34:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=129, y=67, z=60} class_2338{x=129, y=66, z=59}
-[22:35:11] [Server thread/INFO]: Aifros[/127.185.103.251:44625] logged in with entity id 5187 at (72.76384484419633, 70.0, 38.87290675692716)
-[22:35:11] [Server thread/INFO]: Aifros joined the game
-[22:35:15] [Server thread/INFO]: [Not Secure] <Aifros> holaa
-[22:35:16] [Server thread/INFO]: [Not Secure] <NotKausaSAP> wenasss
-[22:35:34] [Server thread/INFO]: [Not Secure] <NotKausaSAP> ayudas a conseguir materiales?
-[22:35:38] [Server thread/INFO]: [Not Secure] <Aifros> ahora ando empezando
-[22:35:43] [Server thread/INFO]: [Not Secure] <Aifros> en 10 me pongo las pilas
-[22:35:45] [Server thread/INFO]: [Not Secure] <Aifros> estare en voice
-[22:35:46] [Server thread/INFO]: [Not Secure] <NotKausaSAP> epa
-[22:35:56] [Server thread/INFO]: [Not Secure] <NotKausaSAP> ya no puedo yo llamada xd
-[22:36:48] [Server thread/INFO]: [Not Secure] <NotKausaSAP> si algo estoy aplanando para la granja de aldeanos de 4 modulos
-[22:37:27] [Server thread/INFO]: Aifros has made the advancement [Stone Age]
-[22:38:20] [Server thread/INFO]: [Not Secure] <NotKausaSAP> aifors
-[22:38:27] [Server thread/INFO]: [Not Secure] <NotKausaSAP> aifros**
-[22:38:45] [Server thread/INFO]: [Not Secure] <Aifros> dime
-[22:38:54] [Server thread/INFO]: [Not Secure] <NotKausaSAP> podes conseguir obsidiana y libros para librerias??
-[22:38:59] [Server thread/INFO]: Aifros has made the advancement [Getting an Upgrade]
-[22:39:00] [Server thread/INFO]: [Not Secure] <NotKausaSAP> si quieres te doy mi pico
-[22:39:10] [Server thread/INFO]: [Not Secure] <Sr_Sebs> donde te dejo la madera?
-[22:39:19] [Server thread/INFO]: [Not Secure] <NotKausaSAP> ven
-[22:39:50] [Server thread/INFO]: [Not Secure] <Aifros> tienes un cubo?
-[22:39:54] [Server thread/INFO]: [Not Secure] <Aifros> para no fabricar otro
-[22:39:58] [Server thread/INFO]: [Not Secure] <NotKausaSAP> tma
-[22:40:33] [Server thread/INFO]: [Not Secure] <Aifros> deberias exiguir activivad
-[22:40:47] [Server thread/INFO]: [Not Secure] <NotKausaSAP> es que algunos no pueden por que andan ocupados
-[22:40:56] [Server thread/INFO]: [Not Secure] <Aifros> yo tambien
-[22:40:57] [Server thread/INFO]: [Not Secure] <Aifros> mirame
-[22:40:58] [Server thread/INFO]: [Not Secure] <Aifros> AISJKAjsk
-[22:41:04] [Server thread/INFO]: [Not Secure] <NotKausaSAP> igual son los que mas han podido apoyarme a mi
-[22:41:04] [Server thread/INFO]: [Not Secure] <Aifros> ando en un funeral
-[22:41:07] [Server thread/INFO]: [Not Secure] <Aifros> te imaginas
-[22:41:07] [Server thread/INFO]: [Not Secure] <NotKausaSAP> jajja
-[22:41:14] [Server thread/INFO]: [Not Secure] <NotKausaSAP> que decia jajaj
-[22:41:25] [Server thread/INFO]: Aifros has made the advancement [A Seedy Place]
-[22:41:58] [Server thread/INFO]: [Not Secure] <NotKausaSAP> duerman plis
-[22:42:29] [Server thread/INFO]: [Not Secure] <Aifros> ya estan?
-[22:42:31] [Server thread/INFO]: [Not Secure] <NotKausaSAP> aifros duerme muchacho
-[22:42:33] [Server thread/INFO]: Aifros lost connection: Disconnected
-[22:42:33] [Server thread/INFO]: Aifros left the game
-[22:42:38] [Server thread/INFO]: [Not Secure] <NotKausaSAP> se iva jajaj
-[22:42:40] [Server thread/INFO]: Aifros[/127.185.103.251:35235] logged in with entity id 7334 at (99.86891074498583, 69.0, 18.02120191118214)
-[22:42:40] [Server thread/INFO]: Aifros joined the game
-[22:43:02] [Server thread/INFO]: [Not Secure] <Aifros> eu estoy en vc por si quieren hablar de mientras
-[22:43:50] [Server thread/INFO]: [Not Secure] <Aifros> no me veran por un rato
-[22:43:56] [Server thread/INFO]: [Not Secure] <Aifros> ire a explorar y tal
-[22:44:06] [Server thread/INFO]: [Not Secure] <Aifros> comida, biomas y eso
-[22:44:06] [Server thread/INFO]: [Not Secure] <NotKausaSAP> ve por obsiduiana y librerias
-[22:44:20] [Server thread/INFO]: [Not Secure] <Aifros> regresare con ello
-[22:44:23] [Server thread/INFO]: [Not Secure] <Sr_Sebs> listo mira
-[22:44:49] [Server thread/INFO]: [Not Secure] <NotKausaSAP> falta los 4stcks de arena xd
-[22:45:01] [Server thread/INFO]: [Not Secure] <NotKausaSAP> acuerdense que es tecnico decorativo
-[22:45:11] [Server thread/INFO]: [Not Secure] <Sr_Sebs> aa no me habias dicho jaja
-[22:45:24] [Server thread/INFO]: [Not Secure] <Aifros> los roles quisiera eleguir el de decorador tecnico pero me da como cosita
-[22:45:42] [Server thread/INFO]: [Not Secure] <NotKausaSAP> por?
-[22:45:47] [Server thread/INFO]: [Not Secure] <Aifros> no lo se
-[22:45:51] [Server thread/INFO]: [Not Secure] <Sr_Sebs> es mejor que alprincipio todos aporten con todo
-[22:45:52] [Server thread/INFO]: [Not Secure] <Aifros> ahi luego me aplico
-[22:46:23] [Server thread/INFO]: [Not Secure] <NotKausaSAP> los roles se toman primordialmente para las ayudas en el servidor
-[22:46:29] [Server thread/INFO]: [Not Secure] <Aifros> mañana tengo examen y otro mapa mental pero ni se de que va
-[22:46:46] [Server thread/INFO]: [Not Secure] <NotKausaSAP> yo tengo examen de programacion mañana
-[22:46:58] [Server thread/INFO]: [Not Secure] <Sr_Sebs> yo meneos mal ya acabe el semestre de la uni
-[22:47:10] [Server thread/INFO]: [Not Secure] <Aifros> hoy vi matematicas, ingles y el mapa mental que tenia que entregar hoy
-[22:47:10] [Server thread/INFO]: [Not Secure] <NotKausaSAP> yo sigo en el colegio jajaj
-[22:47:12] [Server thread/INFO]: [Not Secure] <Aifros> que casi no llego
-[22:47:17] [Server thread/INFO]: [Not Secure] <Aifros> eu kevin call?
-[22:47:21] [Server thread/INFO]: [Not Secure] <Aifros> si no tienes mic
-[22:47:24] [Server thread/INFO]: [Not Secure] <NotKausaSAP> no puedo bro
-[22:47:27] [Server thread/INFO]: [Not Secure] <Aifros> puedes usar ttsbot
-[22:47:28] [Server thread/INFO]: [Not Secure] <Aifros> ouh
-[22:47:29] [Server thread/INFO]: [Not Secure] <Aifros> bueno
-[22:47:30] [Server thread/INFO]: [Not Secure] <NotKausaSAP> llego justo mi ama
-[22:48:44] [Server thread/INFO]: [Not Secure] <NotKausaSAP> y que estidiaron ustds?
-[22:49:57] [Server thread/INFO]: [Not Secure] <Aifros> yo aun estoy en preparatoria
-[22:50:07] [Server thread/INFO]: [Not Secure] <NotKausaSAP> y tu sebas?
-[22:50:32] [Server thread/INFO]: [Not Secure] <Sr_Sebs> octavo semestres de la universidad
-[22:50:45] [Server thread/INFO]: [Not Secure] <NotKausaSAP> sisi pero osea que estudias?
-[22:50:57] [Server thread/INFO]: [Not Secure] <NotKausaSAP> ingenieria o otro?
-[22:50:58] [Server thread/INFO]: [Not Secure] <Sr_Sebs> ingieneria de sistemas
-[22:51:22] [Server thread/INFO]: [Not Secure] <NotKausaSAP> se te hace difil (tmb quiero estudiar lo mismo)
-[22:51:40] [Server thread/INFO]: [Not Secure] <NotKausaSAP> dificil*?
-[22:51:58] [Server thread/INFO]: [Not Secure] <Sr_Sebs> pues enb el semestre que estoy es complicado porque tienes que llevar un proyecto de cada materia
-[22:52:13] [Server thread/INFO]: [Not Secure] <Sr_Sebs> preparar expociones prototipos y eso
-[22:52:39] [Server thread/INFO]: [Not Secure] <Sr_Sebs> y vez todas las matematicas jajaja
-[22:52:50] [Server thread/INFO]: [Not Secure] <Aifros> sabes cual es el problema del lagg?
-[22:53:09] [Server thread/INFO]: [Not Secure] <NotKausaSAP> no entendi nunca la necesidad de meterle el alfabeto a las matematicas pero en fin jajaj
-[22:53:14] [Server thread/INFO]: [Not Secure] <Aifros> xd
-[22:53:39] [Server thread/INFO]: [Not Secure] <Sr_Sebs> jajaja despues le meten figuras
-[22:53:40] [Server thread/INFO]: [Not Secure] <NotKausaSAP> creo que es tu internet o los servidores de tu proveeor
-[22:53:52] [Server thread/INFO]: [Not Secure] <Sr_Sebs> que delta,euler,integrales y eso
-[22:53:54] [Server thread/INFO]: [Not Secure] <NotKausaSAP> pueden dormir?
-[22:54:20] [Server thread/INFO]: [Not Secure] <Aifros> soy yo?
-[22:54:21] [Server thread/INFO]: Aifros has made the advancement [Sweet Dreams]
-[22:54:26] [Server thread/INFO]: [Not Secure] <NotKausaSAP> yo apenas ando biendo leyes de las matematicas avanzadas 2 jeje
-[22:54:29] [Server thread/INFO]: [Not Secure] <Aifros> pero tu vas un poco peor
-[22:54:36] [Server thread/INFO]: [Not Secure] <NotKausaSAP> ps a mi me va mejor
-[22:54:48] [Server thread/INFO]: [Not Secure] <Aifros> mmmm
-[22:55:01] [Server thread/INFO]: [Not Secure] <Sr_Sebs> tienes carbon? para hacer cristal?
-[22:55:03] [Server thread/INFO]: [Not Secure] <Aifros> esta en facil?
-[22:55:16] [Server thread/INFO]: [Not Secure] <NotKausaSAP> creo que no xd
-[22:55:38] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Spectator Mode]
-[22:55:50] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Survival Mode]
-[22:55:57] [Server thread/INFO]: [Not Secure] <Sr_Sebs> voy a buscar
-[22:55:58] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Spectator Mode]
-[22:56:02] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Survival Mode]
-[22:56:04] [Server thread/INFO]: [Not Secure] <NotKausaSAP> toma
-[22:56:21] [Server thread/INFO]: [Not Secure] <NotKausaSAP> solo tengo eso xd
-[22:56:43] [Server thread/INFO]: [Not Secure] <NotKausaSAP> que tal les parece mi host?
-[22:57:05] [Server thread/INFO]: [Not Secure] <Aifros> segun en ms a ti te va un poco mal pero dices que te va bien
-[22:57:11] [Server thread/INFO]: [Not Secure] <Aifros> a mi los mobs me van con retraso
-[22:57:14] [Server thread/INFO]: [Not Secure] <Aifros> por eso digo
-[22:57:17] [Server thread/INFO]: [Not Secure] <Aifros> si es lagg del server
-[22:57:25] [Server thread/INFO]: [Not Secure] <Aifros> pq yo usualmente no tengo tantos problemas
-[22:57:48] [Server thread/INFO]: [Not Secure] <NotKausaSAP> ps mi ms andan en 200 o 400 es normal pa mi por que no pagamos un buen internet
-[22:57:58] [Server thread/INFO]: [Not Secure] <Aifros> AKsjkask
-[22:58:05] [Server thread/INFO]: [Not Secure] <Aifros> yo tengo buen internet
-[22:58:11] [Server thread/INFO]: [Not Secure] <NotKausaSAP> pero igual si va con dos o 10 ms de retraso el server
-[22:58:20] [Server thread/INFO]: [Not Secure] <NotKausaSAP> ya que el host queda en holanda
-[22:58:26] [Server thread/INFO]: [Not Secure] <Aifros> uy
-[22:58:34] [Server thread/INFO]: [Not Secure] <NotKausaSAP> antes va bien jajaj
-[22:58:51] [Server thread/INFO]: [Not Secure] <NotKausaSAP> fue el unico hots calidad precio que encontre
-[22:58:56] [Server thread/INFO]: [Not Secure] <Aifros> eres de col, sabes donde queda olanda :c
-[22:59:02] [Server thread/INFO]: [Not Secure] <Aifros> no muy cerca
-[22:59:04] [Server thread/INFO]: [Not Secure] <Aifros> JAJA
-[22:59:21] [Server thread/INFO]: [Not Secure] <NotKausaSAP> ajajajj nada que ver
-[23:00:49] [Server thread/INFO]: [NotKausaSAP: Applied effect Haste to NotKausaSAP]
-[23:01:09] [Server thread/INFO]: [Not Secure] <Aifros> vengo
-[23:01:25] [Server thread/INFO]: [NotKausaSAP: Removed every effect from NotKausaSAP]
-[23:01:52] [Server thread/INFO]: LittelMush[/127.107.133.83:35955] logged in with entity id 16509 at (-1.5, 72.0, -0.5)
-[23:01:52] [Server thread/INFO]: LittelMush joined the game
-[23:02:12] [Server thread/INFO]: [Not Secure] <NotKausaSAP> se unio el top global jaja
-[23:02:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=71, z=0}
-[23:02:33] [Server thread/INFO]: [Not Secure] <LittelMush> Hola
-[23:02:37] [Server thread/INFO]: [Not Secure] <NotKausaSAP> hi
-[23:02:56] [Server thread/INFO]: [Not Secure] <LittelMush> Por donde estan?
-[23:03:12] [Server thread/INFO]: [Not Secure] <NotKausaSAP> yo ando aplanandom para la granja de aldeanos de 4 modulos
-[23:04:11] [Server thread/INFO]: [Not Secure] <NotKausaSAP> little podes ir al nether?
+[23:27:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server-1.21.4/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:27:24] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:27:26] [main/INFO]: Loaded 1370 recipes
+[23:27:26] [main/INFO]: Loaded 1481 advancements
+[23:27:26] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[23:27:26] [Server thread/INFO]: Loading properties
+[23:27:26] [Server thread/INFO]: Default game type: SURVIVAL
+[23:27:26] [Server thread/INFO]: Generating keypair
+[23:27:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:27:26] [Server thread/INFO]: Using epoll channel type
+[23:27:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:27:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:27:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:27:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:27:26] [Server thread/INFO]: Preparing level "world"
+[23:27:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:27:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:27:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:27:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:27:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:27:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:27:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:27:30] [Server thread/INFO]: Time elapsed: 2837 ms
+[23:27:30] [Server thread/INFO]: Done (3.126s)! For help, type "help"
+[23:27:34] [Server thread/INFO]: Sr_Sebs[/127.166.25.141:58073] logged in with entity id 30 at (-16.247839239496013, 63.0, 60.972732037366406)
+[23:27:34] [Server thread/INFO]: Sr_Sebs joined the game
+[23:27:53] [Server thread/INFO]: NotKausaSAP[/127.250.145.233:36229] logged in with entity id 234 at (99.91717693283219, 68.0, 36.14090353560528)
+[23:27:53] [Server thread/INFO]: NotKausaSAP joined the game
+[23:27:54] [Server thread/WARN]: UUID of added entity already exists: class_4466['Bee'/455, l='ServerLevel[world]', x=-18.64, y=71.09, z=183.85]
+[23:28:03] [Server thread/INFO]: [Not Secure] <NotKausaSAP> wenas
+[23:28:14] [Server thread/INFO]: [Not Secure] <NotKausaSAP> sorry el server se tuvo que setear
+[23:29:01] [Server thread/INFO]: Aifros[/127.185.103.251:58213] logged in with entity id 746 at (138.69999998807907, 61.121296840539195, 26.70150358212218)
+[23:29:01] [Server thread/INFO]: Aifros joined the game
+[23:29:04] [Server thread/INFO]: [Not Secure] <NotKausaSAP> sorry el server se tuvo que setear
+[23:29:07] [Server thread/INFO]: [Not Secure] <Sr_Sebs> pero el se vuelve a prender solo?
+[23:29:09] [Server thread/INFO]: [Not Secure] <Aifros> me pican los cocos
+[23:29:12] [Server thread/INFO]: [Not Secure] <NotKausaSAP> si
+[23:29:12] [Server thread/INFO]: [Not Secure] <Aifros> uy
+[23:29:15] [Server thread/INFO]: [Not Secure] <Aifros> ahora va mejorsito
+[23:29:21] [Server thread/INFO]: [Not Secure] <Aifros> paso a suecia?
+[23:29:31] [Server thread/INFO]: [Not Secure] <Aifros> mrd que lag back
+[23:29:34] [Server thread/INFO]: [Not Secure] <Aifros> me super perdi
+[23:29:34] [Server thread/INFO]: [Not Secure] <NotKausaSAP> nel jajaj
+[23:30:30] [Server thread/INFO]: Sr_Sebs tried to swim in lava
+[23:30:32] [Server thread/INFO]: [Not Secure] <NotKausaSAP> xd
+[23:30:38] [Server thread/INFO]: [Not Secure] <Sr_Sebs> juepucta
+[23:30:50] [Server thread/INFO]: [Not Secure] <Sr_Sebs> porque pongo bloques y se quitan?
+[23:31:31] [Server thread/INFO]: [Not Secure] <NotKausaSAP> creo que el server solo puede registrar 5.3gb de ram por cada jugador no se xd
+[23:31:45] [Server thread/INFO]: [Not Secure] <NotKausaSAP> eso hace q se reinicie los bloques
+[23:32:04] [Server thread/INFO]: [Not Secure] <NotKausaSAP> algo asi me dijo el proveedor
+[23:32:22] [Server thread/INFO]: LittelMush[/127.107.133.83:59461] logged in with entity id 2044 at (109.84646758003788, 69.0, -42.260658668163344)
+[23:32:22] [Server thread/INFO]: LittelMush joined the game
+[23:32:26] [Server thread/INFO]: LittelMush lost connection: Disconnected
+[23:32:26] [Server thread/INFO]: LittelMush left the game
+[23:32:38] [Server thread/INFO]: NotKausaSAP lost connection: Timed out
+[23:32:38] [Server thread/INFO]: NotKausaSAP left the game
+[23:32:38] [Server thread/WARN]: handleDisconnection() called twice
+[23:32:46] [Server thread/INFO]: [Not Secure] <Sr_Sebs> por eso me mori jaja
+[23:35:14] [Server thread/INFO]: [Not Secure] <Aifros> hace falta magma?
+[23:35:15] [Server thread/INFO]: [Not Secure] <Aifros> de algo
