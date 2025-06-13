@@ -277,6 +277,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-06-13 22:21:15 +0000",
       "minecraft:cave_spider": "2025-06-12 22:53:48 +0000",
       "minecraft:skeleton": "2025-06-12 22:52:19 +0000",
       "minecraft:piglin": "2025-06-12 23:34:21 +0000",
@@ -1372,6 +1373,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-13 22:21:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-06-13 21:59:22 +0000"
@@ -1387,6 +1394,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-06-13 21:57:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-13 22:21:15 +0000"
     },
     "done": true
   },
@@ -1453,6 +1466,12 @@
   "minecraft:recipes/tools/bundle": {
     "criteria": {
       "has_string": "2025-06-13 21:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-13 22:21:15 +0000"
     },
     "done": true
   },
