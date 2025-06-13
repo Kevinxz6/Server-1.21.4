@@ -1,87 +1,33 @@
-[23:27:18] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
-[23:27:18] [main/INFO]: Loading 4 mods:
+[20:07:59] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
+[20:07:59] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.14
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.4
-[23:27:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server-1.21.4/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[23:27:24] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:27:26] [main/INFO]: Loaded 1370 recipes
-[23:27:26] [main/INFO]: Loaded 1481 advancements
-[23:27:26] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[23:27:26] [Server thread/INFO]: Loading properties
-[23:27:26] [Server thread/INFO]: Default game type: SURVIVAL
-[23:27:26] [Server thread/INFO]: Generating keypair
-[23:27:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:27:26] [Server thread/INFO]: Using epoll channel type
-[23:27:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:27:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:27:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:27:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:27:26] [Server thread/INFO]: Preparing level "world"
-[23:27:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:27:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:27:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:27:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:27:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:27:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:27:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:27:30] [Server thread/INFO]: Time elapsed: 2837 ms
-[23:27:30] [Server thread/INFO]: Done (3.126s)! For help, type "help"
-[23:27:34] [Server thread/INFO]: Sr_Sebs[/127.166.25.141:58073] logged in with entity id 30 at (-16.247839239496013, 63.0, 60.972732037366406)
-[23:27:34] [Server thread/INFO]: Sr_Sebs joined the game
-[23:27:53] [Server thread/INFO]: NotKausaSAP[/127.250.145.233:36229] logged in with entity id 234 at (99.91717693283219, 68.0, 36.14090353560528)
-[23:27:53] [Server thread/INFO]: NotKausaSAP joined the game
-[23:27:54] [Server thread/WARN]: UUID of added entity already exists: class_4466['Bee'/455, l='ServerLevel[world]', x=-18.64, y=71.09, z=183.85]
-[23:28:03] [Server thread/INFO]: [Not Secure] <NotKausaSAP> wenas
-[23:28:14] [Server thread/INFO]: [Not Secure] <NotKausaSAP> sorry el server se tuvo que setear
-[23:29:01] [Server thread/INFO]: Aifros[/127.185.103.251:58213] logged in with entity id 746 at (138.69999998807907, 61.121296840539195, 26.70150358212218)
-[23:29:01] [Server thread/INFO]: Aifros joined the game
-[23:29:04] [Server thread/INFO]: [Not Secure] <NotKausaSAP> sorry el server se tuvo que setear
-[23:29:07] [Server thread/INFO]: [Not Secure] <Sr_Sebs> pero el se vuelve a prender solo?
-[23:29:09] [Server thread/INFO]: [Not Secure] <Aifros> me pican los cocos
-[23:29:12] [Server thread/INFO]: [Not Secure] <NotKausaSAP> si
-[23:29:12] [Server thread/INFO]: [Not Secure] <Aifros> uy
-[23:29:15] [Server thread/INFO]: [Not Secure] <Aifros> ahora va mejorsito
-[23:29:21] [Server thread/INFO]: [Not Secure] <Aifros> paso a suecia?
-[23:29:31] [Server thread/INFO]: [Not Secure] <Aifros> mrd que lag back
-[23:29:34] [Server thread/INFO]: [Not Secure] <Aifros> me super perdi
-[23:29:34] [Server thread/INFO]: [Not Secure] <NotKausaSAP> nel jajaj
-[23:30:30] [Server thread/INFO]: Sr_Sebs tried to swim in lava
-[23:30:32] [Server thread/INFO]: [Not Secure] <NotKausaSAP> xd
-[23:30:38] [Server thread/INFO]: [Not Secure] <Sr_Sebs> juepucta
-[23:30:50] [Server thread/INFO]: [Not Secure] <Sr_Sebs> porque pongo bloques y se quitan?
-[23:31:31] [Server thread/INFO]: [Not Secure] <NotKausaSAP> creo que el server solo puede registrar 5.3gb de ram por cada jugador no se xd
-[23:31:45] [Server thread/INFO]: [Not Secure] <NotKausaSAP> eso hace q se reinicie los bloques
-[23:32:04] [Server thread/INFO]: [Not Secure] <NotKausaSAP> algo asi me dijo el proveedor
-[23:32:22] [Server thread/INFO]: LittelMush[/127.107.133.83:59461] logged in with entity id 2044 at (109.84646758003788, 69.0, -42.260658668163344)
-[23:32:22] [Server thread/INFO]: LittelMush joined the game
-[23:32:26] [Server thread/INFO]: LittelMush lost connection: Disconnected
-[23:32:26] [Server thread/INFO]: LittelMush left the game
-[23:32:38] [Server thread/INFO]: NotKausaSAP lost connection: Timed out
-[23:32:38] [Server thread/INFO]: NotKausaSAP left the game
-[23:32:38] [Server thread/WARN]: handleDisconnection() called twice
-[23:32:46] [Server thread/INFO]: [Not Secure] <Sr_Sebs> por eso me mori jaja
-[23:35:14] [Server thread/INFO]: [Not Secure] <Aifros> hace falta magma?
-[23:35:15] [Server thread/INFO]: [Not Secure] <Aifros> de algo
-[23:40:10] [Server thread/INFO]: [Not Secure] <Aifros> eu el kevin te tiene que opcion 1: termines la granja, opcion 2: que aplanes dejando un medio chunk en los bordes, si no comprendes dile que te haga un dibujito
-[23:40:23] [Server thread/INFO]: [Not Secure] <Aifros> Xd
-[23:40:28] [Server thread/INFO]: [Not Secure] <Aifros> osea que pls hagas eso
-[23:40:47] [Server thread/INFO]: LittelMush[/127.107.133.83:60459] logged in with entity id 4762 at (109.84646758003788, 69.0, -42.260658668163344)
-[23:40:47] [Server thread/INFO]: LittelMush joined the game
-[23:41:23] [Server thread/INFO]: [Not Secure] <LittelMush> Altiro vuelvo
-[23:41:24] [Server thread/INFO]: LittelMush lost connection: Disconnected
-[23:41:24] [Server thread/INFO]: LittelMush left the game
-[23:43:04] [Server thread/INFO]: Aifros burned to death
-[23:43:49] [Server thread/INFO]: Aifros was blown up by Creeper
-[23:45:47] [Server thread/INFO]: Aifros fell from a high place
-[23:47:57] [Server thread/INFO]: Aifros tried to swim in lava
-[23:50:37] [Server thread/INFO]: Aifros fell from a high place
-[23:52:36] [Server thread/INFO]: [Not Secure] <Aifros> Sr_Sebs?
-[23:52:43] [Server thread/INFO]: [Not Secure] <Sr_Sebs> si8?
-[23:52:50] [Server thread/INFO]: [Not Secure] <Aifros> si leiste lo que te pidio kev?
-[23:53:00] [Server thread/INFO]: [Not Secure] <Sr_Sebs> a mi no me dijo nada
-[23:53:18] [Server thread/INFO]: [Not Secure] <Aifros> opcion 1: termines la granja, opcion 2: que aplanes dejando un medio chunk en los bordes, si no comprendes dile que te haga un dibujito
-[23:53:45] [Server thread/INFO]: [Not Secure] <Sr_Sebs> ufff pero yo llevo rato en el nether
-[23:54:33] [Server thread/INFO]: Aifros fell from a high place
-[23:57:01] [Server thread/INFO]: Sr_Sebs has made the advancement [Those Were the Days]
+[20:07:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server-1.21.4/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:08:04] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:08:06] [main/INFO]: Loaded 1370 recipes
+[20:08:06] [main/INFO]: Loaded 1481 advancements
+[20:08:06] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[20:08:06] [Server thread/INFO]: Loading properties
+[20:08:06] [Server thread/INFO]: Default game type: SURVIVAL
+[20:08:06] [Server thread/INFO]: Generating keypair
+[20:08:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:08:06] [Server thread/INFO]: Using epoll channel type
+[20:08:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:08:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:08:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:08:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:08:06] [Server thread/INFO]: Preparing level "world"
+[20:08:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:08:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:08:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:08:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:08:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:08:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:08:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:08:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:08:10] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[20:08:10] [Server thread/INFO]: Time elapsed: 3585 ms
+[20:08:10] [Server thread/INFO]: Done (3.827s)! For help, type "help"
+[20:09:10] [Server thread/INFO]: Server empty for 60 seconds, pausing
