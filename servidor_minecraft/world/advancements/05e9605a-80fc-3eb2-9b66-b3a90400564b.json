@@ -263,6 +263,7 @@
       "rotten_flesh": "2025-06-12 01:38:00 +0000",
       "cooked_mutton": "2025-06-12 23:17:31 +0000",
       "potato": "2025-06-12 01:38:34 +0000",
+      "mushroom_stew": "2025-06-13 21:47:30 +0000",
       "cooked_beef": "2025-06-12 22:50:17 +0000"
     },
     "done": false
@@ -280,6 +281,7 @@
       "minecraft:piglin": "2025-06-12 23:34:21 +0000",
       "minecraft:enderman": "2025-06-13 00:00:31 +0000",
       "minecraft:spider": "2025-06-12 22:52:30 +0000",
+      "minecraft:wither_skeleton": "2025-06-13 21:49:00 +0000",
       "minecraft:zombie": "2025-06-12 01:35:22 +0000",
       "minecraft:creeper": "2025-06-12 23:07:28 +0000"
     },
@@ -1218,39 +1220,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-06-13 20:42:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-13 21:08:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_horse_armor": "2025-06-13 20:53:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-06-13 20:39:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-06-13 21:08:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_horse_armor": "2025-06-13 20:53:25 +0000"
     },
     "done": true
   },
@@ -1260,15 +1232,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "has_poppy": "2025-06-13 20:46:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-06-13 21:08:06 +0000"
+      "has_porkchop": "2025-06-13 20:42:38 +0000"
     },
     "done": true
   },
@@ -1278,19 +1244,43 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-13 20:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-13 20:46:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-06-13 20:46:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_banner": {
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "has_light_gray_wool": "2025-06-13 21:08:42 +0000"
+      "has_golden_horse_armor": "2025-06-13 20:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-06-13 20:53:25 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-13 20:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-06-13 20:53:56 +0000"
     },
@@ -1302,9 +1292,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_porkchop": "2025-06-13 20:42:38 +0000"
+      "has_smelts_to_glass": "2025-06-13 21:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-13 21:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-13 21:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-13 21:08:42 +0000"
     },
     "done": true
   },
@@ -1314,15 +1322,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-06-13 20:53:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-06-13 21:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-13 21:48:38 +0000"
     },
     "done": true
   },
