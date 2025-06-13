@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-06-13 21:08:05 +0000",
       "minecraft:forest": "2025-06-12 22:51:47 +0000",
       "minecraft:river": "2025-06-12 22:51:13 +0000",
       "minecraft:plains": "2025-06-12 01:23:34 +0000"
@@ -255,8 +256,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "mutton": "2025-06-13 21:08:53 +0000",
       "apple": "2025-06-12 01:34:50 +0000",
       "bread": "2025-06-12 23:42:09 +0000",
+      "cooked_chicken": "2025-06-13 21:17:18 +0000",
       "rotten_flesh": "2025-06-12 01:38:00 +0000",
       "cooked_mutton": "2025-06-12 23:17:31 +0000",
       "potato": "2025-06-12 01:38:34 +0000",
@@ -1221,6 +1224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-13 21:08:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2025-06-13 20:53:25 +0000"
@@ -1230,6 +1239,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-06-13 20:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-06-13 21:08:06 +0000"
     },
     "done": true
   },
@@ -1251,6 +1266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-13 21:08:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-06-13 20:42:38 +0000"
@@ -1260,6 +1281,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-06-13 20:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-13 21:08:42 +0000"
     },
     "done": true
   },
@@ -1281,9 +1308,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-13 21:08:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-06-13 20:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-06-13 21:18:00 +0000"
     },
     "done": true
   },
