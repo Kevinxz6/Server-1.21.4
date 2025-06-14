@@ -1,239 +1,36 @@
-[20:07:59] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
-[20:07:59] [main/INFO]: Loading 4 mods:
+[00:10:56] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
+[00:10:56] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.14
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.4
-[20:07:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server-1.21.4/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:08:04] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:08:06] [main/INFO]: Loaded 1370 recipes
-[20:08:06] [main/INFO]: Loaded 1481 advancements
-[20:08:06] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[20:08:06] [Server thread/INFO]: Loading properties
-[20:08:06] [Server thread/INFO]: Default game type: SURVIVAL
-[20:08:06] [Server thread/INFO]: Generating keypair
-[20:08:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:08:06] [Server thread/INFO]: Using epoll channel type
-[20:08:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:08:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:08:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:08:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:08:06] [Server thread/INFO]: Preparing level "world"
-[20:08:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:08:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:08:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:08:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:08:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:08:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:08:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:08:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:08:10] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[20:08:10] [Server thread/INFO]: Time elapsed: 3585 ms
-[20:08:10] [Server thread/INFO]: Done (3.827s)! For help, type "help"
-[20:09:10] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:29:32] [Server thread/INFO]: NotKausaSAP[/127.250.145.233:51489] logged in with entity id 21 at (163.52734076669537, 63.0, 77.51633341602049)
-[20:29:32] [Server thread/INFO]: NotKausaSAP joined the game
-[20:29:57] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Creative Mode]
-[20:30:18] [Server thread/INFO]: NotKausaSAP lost connection: Disconnected
-[20:30:18] [Server thread/INFO]: NotKausaSAP left the game
-[20:30:40] [Server thread/INFO]: NotKausaSAP[/127.250.145.233:34631] logged in with entity id 349 at (163.52734076669537, 63.0, 77.51633341602049)
-[20:30:40] [Server thread/INFO]: NotKausaSAP joined the game
-[20:33:32] [Server thread/INFO]: Aifros[/127.185.103.251:52623] logged in with entity id 931 at (546.2117235158519, 84.0, 7.4161738612052535)
-[20:33:32] [Server thread/INFO]: Aifros joined the game
-[20:33:36] [Server thread/INFO]: [Not Secure] <NotKausaSAP> wenas
-[20:33:38] [Server thread/INFO]: [Not Secure] <Aifros> wasa
-[20:33:45] [Server thread/INFO]: [Not Secure] <Aifros> me descargue otro modpack
-[20:33:47] [Server thread/INFO]: [Not Secure] <NotKausaSAP> onde andabas
-[20:33:50] [Server thread/INFO]: [Not Secure] <Aifros> el simpliopti
-[20:33:55] [Server thread/INFO]: [Not Secure] <Aifros> descargando
-[20:34:06] [Server thread/INFO]: [Not Secure] <NotKausaSAP> que estabamos haciendo?
-[20:34:18] [Server thread/INFO]: [Not Secure] <Aifros> tu aplanando
-[20:34:21] [Server thread/INFO]: [Not Secure] <Aifros> y yo en el nether
-[20:34:24] [Server thread/INFO]: [Not Secure] <Aifros> nunca llegue wasaaa
-[20:34:28] [Server thread/INFO]: [Not Secure] <Aifros> voy para la base
-[20:34:30] [Server thread/INFO]: [Not Secure] <Aifros> me das hierro?
-[20:34:35] [Server thread/INFO]: [Not Secure] <Aifros> a no mejor farmeo solow
-[20:34:36] [Server thread/INFO]: [Not Secure] <NotKausaSAP> si dale
-[20:34:39] [Server thread/INFO]: [Not Secure] <Aifros> aunque
-[20:34:42] [Server thread/INFO]: [Not Secure] <Aifros> si puedes hacer call dime
-[20:34:51] [Server thread/INFO]: [Not Secure] <NotKausaSAP> pera miro aver q
-[20:35:48] [Server thread/INFO]: [Not Secure] <NotKausaSAP> es que ando jugando disque en mi cuarto
-[20:35:58] [Server thread/INFO]: [Not Secure] <NotKausaSAP> me traje la pc y la conecte al tele
-[20:36:03] [Server thread/INFO]: [Not Secure] <Aifros> Xd
-[20:37:13] [Server thread/INFO]: NotKausaSAP has made the advancement [Ice Bucket Challenge]
-[20:37:19] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Spectator Mode]
-[20:37:35] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Creative Mode]
-[20:37:38] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Survival Mode]
-[20:38:11] [Server thread/INFO]: [Not Secure] <Aifros> metete a call o miedo a la verdad
-[20:38:16] [Server thread/INFO]: [Not Secure] <NotKausaSAP> ando en mi si algo
-[20:38:25] [Server thread/INFO]: [Not Secure] <NotKausaSAP> pera voy a dc
-[20:41:48] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Spectator Mode]
-[20:42:14] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Survival Mode]
-[20:42:28] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Spectator Mode]
-[20:42:44] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Survival Mode]
-[20:44:26] [Server thread/INFO]: [Not Secure] <NotKausaSAP> 100 69 30
-[20:44:42] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Spectator Mode]
-[20:44:47] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Survival Mode]
-[20:45:09] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Spectator Mode]
-[20:45:18] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Creative Mode]
-[20:48:32] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Spectator Mode]
-[20:48:40] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Creative Mode]
-[20:50:54] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Spectator Mode]
-[20:51:00] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Creative Mode]
-[20:51:24] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Survival Mode]
-[20:54:12] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Creative Mode]
-[20:56:28] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Survival Mode]
-[20:59:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=117, y=68, z=8} class_2338{x=116, y=67, z=7}
-[21:05:11] [Server thread/INFO]: [NotKausaSAP: Set the time to 1000]
-[21:07:47] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Creative Mode]
-[21:11:29] [Server thread/WARN]: UUID of added entity already exists: class_1560['Enderman'/13873, l='ServerLevel[world]', x=306.50, y=98.00, z=-192.38]
-[21:12:57] [Server thread/INFO]: [Not Secure] <Aifros> 350 -60
-[21:13:03] [Server thread/INFO]: [Not Secure] <Aifros> 350 74 -60
-[21:13:39] [Server thread/INFO]: Aifros was slain by Enderman
-[21:13:42] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Survival Mode]
-[21:14:12] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Creative Mode]
-[21:14:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=137, y=63, z=56} class_2338{x=137, y=64, z=56}
-[21:16:29] [Server thread/INFO]: [Not Secure] <Aifros> 350 74 -60
-[21:26:22] [Server thread/WARN]: Player NotKausaSAP just tried to change non-editable sign
-[21:30:07] [Server thread/INFO]: Aifros lost connection: Disconnected
-[21:30:07] [Server thread/INFO]: Aifros left the game
-[21:36:38] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Survival Mode]
-[21:39:33] [Server thread/INFO]: [NotKausaSAP: Set own game mode to Creative Mode]
-[21:45:00] [Server thread/INFO]: Aifros[/127.185.103.251:59943] logged in with entity id 20298 at (452.0914911650467, 89.0, 102.64413922448118)
-[21:45:00] [Server thread/INFO]: Aifros joined the game
-[21:48:11] [Server thread/INFO]: NotKausaSAP lost connection: Disconnected
-[21:48:11] [Server thread/INFO]: NotKausaSAP left the game
-[21:48:38] [Server thread/INFO]: Aifros has made the advancement [A Terrible Fortress]
-[21:50:46] [Server thread/INFO]: /advancement (grant|revoke)
-[21:50:46] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[21:50:46] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[21:50:46] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[21:50:46] [Server thread/INFO]: /clear [<targets>]
-[21:50:46] [Server thread/INFO]: /clone (<begin>|from)
-[21:50:46] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
-[21:50:46] [Server thread/INFO]: /data (merge|get|remove|modify)
-[21:50:46] [Server thread/INFO]: /datapack (enable|disable|list)
-[21:50:46] [Server thread/INFO]: /debug (start|stop|function)
-[21:50:46] [Server thread/INFO]: /defaultgamemode <gamemode>
-[21:50:46] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[21:50:46] [Server thread/INFO]: /effect (clear|give)
-[21:50:46] [Server thread/INFO]: /me <action>
-[21:50:46] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[21:50:46] [Server thread/INFO]: /experience (add|set|query)
-[21:50:46] [Server thread/INFO]: /xp -> experience
-[21:50:46] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[21:50:46] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[21:50:46] [Server thread/INFO]: /forceload (add|remove|query)
-[21:50:46] [Server thread/INFO]: /function <name> [<arguments>|with]
-[21:50:46] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[21:50:46] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disablePlayerMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[21:50:46] [Server thread/INFO]: /give <targets> <item> [<count>]
-[21:50:46] [Server thread/INFO]: /help [<command>]
-[21:50:46] [Server thread/INFO]: /item (replace|modify)
-[21:50:46] [Server thread/INFO]: /kick <targets> [<reason>]
-[21:50:46] [Server thread/INFO]: /kill [<targets>]
-[21:50:46] [Server thread/INFO]: /list [uuids]
-[21:50:46] [Server thread/INFO]: /locate (structure|biome|poi)
-[21:50:46] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[21:50:46] [Server thread/INFO]: /msg <targets> <message>
-[21:50:46] [Server thread/INFO]: /tell -> msg
-[21:50:46] [Server thread/INFO]: /w -> msg
-[21:50:46] [Server thread/INFO]: /particle <name> [<pos>]
-[21:50:46] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[21:50:46] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[21:50:46] [Server thread/INFO]: /random (value|roll|reset)
-[21:50:46] [Server thread/INFO]: /reload
-[21:50:46] [Server thread/INFO]: /recipe (give|take)
-[21:50:46] [Server thread/INFO]: /return (<value>|fail|run)
-[21:50:46] [Server thread/INFO]: /ride <target> (mount|dismount)
-[21:50:46] [Server thread/INFO]: /rotate <target> (<rotation>|facing)
-[21:50:46] [Server thread/INFO]: /say <message>
-[21:50:46] [Server thread/INFO]: /schedule (function|clear)
-[21:50:46] [Server thread/INFO]: /scoreboard (objectives|players)
-[21:50:46] [Server thread/INFO]: /seed
-[21:50:46] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[21:50:46] [Server thread/INFO]: /spawnpoint [<targets>]
-[21:50:46] [Server thread/INFO]: /setworldspawn [<pos>]
-[21:50:46] [Server thread/INFO]: /spectate [<target>]
-[21:50:46] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[21:50:46] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[21:50:46] [Server thread/INFO]: /summon <entity> [<pos>]
-[21:50:46] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[21:50:46] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[21:50:46] [Server thread/INFO]: /teammsg <message>
-[21:50:46] [Server thread/INFO]: /tm -> teammsg
-[21:50:46] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[21:50:46] [Server thread/INFO]: /tp -> teleport
-[21:50:46] [Server thread/INFO]: /tellraw <targets> <message>
-[21:50:46] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
-[21:50:46] [Server thread/INFO]: /time (set|add|query)
-[21:50:46] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[21:50:46] [Server thread/INFO]: /trigger <objective> [add|set]
-[21:50:46] [Server thread/INFO]: /weather (clear|rain|thunder)
-[21:50:46] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[21:50:46] [Server thread/INFO]: /jfr (start|stop)
-[21:50:46] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[21:50:46] [Server thread/INFO]: /banlist [ips|players]
-[21:50:46] [Server thread/INFO]: /ban <targets> [<reason>]
-[21:50:46] [Server thread/INFO]: /deop <targets>
-[21:50:46] [Server thread/INFO]: /op <targets>
-[21:50:46] [Server thread/INFO]: /pardon <targets>
-[21:50:46] [Server thread/INFO]: /pardon-ip <target>
-[21:50:46] [Server thread/INFO]: /perf (start|stop)
-[21:50:46] [Server thread/INFO]: /save-all [flush]
-[21:50:46] [Server thread/INFO]: /save-off
-[21:50:46] [Server thread/INFO]: /save-on
-[21:50:46] [Server thread/INFO]: /setidletimeout <minutes>
-[21:50:46] [Server thread/INFO]: /stop
-[21:50:46] [Server thread/INFO]: /transfer <hostname> [<port>]
-[21:50:46] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[21:51:13] [Server thread/INFO]: Aifros was slain by Piglin
-[21:51:35] [Server thread/INFO]: The game is frozen
-[21:51:50] [Server thread/INFO]: The game is running normally
-[21:53:26] [Server thread/INFO]: [Not Secure] <Aifros> 32 28
-[21:53:30] [Server thread/INFO]: [Not Secure] <Aifros> 32 38
-[21:53:37] [Server thread/INFO]: The game is frozen
-[21:54:19] [Server thread/INFO]: Unknown item 'minecraft:pick_diamond'
-[21:54:19] [Server thread/INFO]: ...ve Aifros pick_diamond<--[HERE]
-[21:55:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:55:38] [Server thread/INFO]: <--[HERE]
-[21:55:41] [Server thread/INFO]: [Not Secure] <Aifros> asd
-[21:55:43] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[21:55:43] [Server thread/INFO]: ...mond_sword{display:{Lore:["\"Un arma legendaria\""]}} 1 ‌<--[HERE]
-[21:55:57] [Server thread/INFO]: The game is running normally
-[21:57:06] [Server thread/INFO]: Aifros has made the advancement [Diamonds!]
-[21:57:06] [Server thread/INFO]: Invalid ID
-[21:57:06] [Server thread/INFO]: ...ve Aifros minecraft:diamond:sword<--[HERE]
-[21:57:38] [Server thread/INFO]: Aifros has made the advancement [Ice Bucket Challenge]
-[22:02:19] [Server thread/INFO]: Aifros tried to swim in lava
-[22:21:15] [Server thread/INFO]: Aifros has made the advancement [Into Fire]
-[22:24:30] [Server thread/INFO]: The game is frozen
-[22:24:46] [Server thread/INFO]: The game is running normally
-[22:25:32] [Server thread/INFO]: The game is frozen
-[22:25:39] [Server thread/INFO]: The game is running normally
-[22:25:47] [Server thread/INFO]: Incorrect argument for command
-[22:25:47] [Server thread/INFO]: ...ick freeze <--[HERE]
-[22:25:54] [Server thread/INFO]: The game is running normally
-[22:26:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[22:26:36] [Server thread/INFO]: <--[HERE]
-[22:26:45] [Server thread/INFO]: [Not Secure] <Aifros> 189 58 268
-[22:44:12] [Server thread/INFO]: Sr_Sebs[/127.166.25.141:55341] logged in with entity id 31962 at (136.69999998807907, 56.0, -180.30000001192093)
-[22:44:12] [Server thread/INFO]: Sr_Sebs joined the game
-[22:45:19] [Server thread/INFO]: Sr_Sebs was slain by Piglin
-[22:45:25] [Server thread/INFO]: Sr_Sebs lost connection: Disconnected
-[22:45:25] [Server thread/INFO]: Sr_Sebs left the game
-[22:45:29] [Server thread/INFO]: [Not Secure] <Aifros> xd
-[22:55:57] [Server thread/INFO]: Aifros has made the advancement [Ol' Betsy]
-[22:56:16] [Server thread/INFO]: NotKausaSAP[/127.250.145.233:43327] logged in with entity id 36714 at (158.388616906798, 66.0, 53.58835829709547)
-[22:56:16] [Server thread/INFO]: NotKausaSAP joined the game
-[22:59:24] [Server thread/INFO]: NotKausaSAP lost connection: Disconnected
-[22:59:24] [Server thread/INFO]: NotKausaSAP left the game
-[23:01:49] [Server thread/INFO]: NotKausaSAP[/127.250.145.233:54425] logged in with entity id 39770 at (156.51751969253718, 66.0, 57.99254023771339)
-[23:01:49] [Server thread/INFO]: NotKausaSAP joined the game
-[23:03:42] [Server thread/INFO]: [Not Secure] <Aifros> GAY-Aifros
-[23:04:01] [Server thread/INFO]: [Not Secure] <NotKausaSAP> Gaifrozz
-[23:04:28] [Server thread/INFO]: NotKausaSAP lost connection: Disconnected
-[23:04:28] [Server thread/INFO]: NotKausaSAP left the game
-[23:04:58] [Server thread/INFO]: Aifros lost connection: Disconnected
-[23:04:58] [Server thread/INFO]: Aifros left the game
-[23:05:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:10:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server-1.21.4/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:11:02] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:11:04] [main/INFO]: Loaded 1370 recipes
+[00:11:04] [main/INFO]: Loaded 1481 advancements
+[00:11:04] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[00:11:04] [Server thread/INFO]: Loading properties
+[00:11:04] [Server thread/INFO]: Default game type: SURVIVAL
+[00:11:04] [Server thread/INFO]: Generating keypair
+[00:11:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:11:05] [Server thread/INFO]: Using epoll channel type
+[00:11:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:11:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:11:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:11:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:11:05] [Server thread/INFO]: Preparing level "world"
+[00:11:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:11:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:11:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:11:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:11:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:11:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:11:08] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[00:11:08] [Server thread/INFO]: Time elapsed: 2550 ms
+[00:11:08] [Server thread/INFO]: Done (2.890s)! For help, type "help"
+[00:12:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:12:56] [Server thread/INFO]: XdranmaX21[/127.242.250.62:49857] logged in with entity id 21 at (134.85315353121746, 52.0, -1.4940013373291006)
+[00:12:56] [Server thread/INFO]: XdranmaX21 joined the game
+[00:16:19] [Server thread/INFO]: XdranmaX21 has made the advancement [Diamonds!]
+[00:19:07] [Server thread/INFO]: Aifros[/127.185.103.251:56343] logged in with entity id 1491 at (-535.3000000119209, 95.0, 1253.0511655358755)
+[00:19:07] [Server thread/INFO]: Aifros joined the game
