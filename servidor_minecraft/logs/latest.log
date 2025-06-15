@@ -1,34 +1,34 @@
-[02:00:41] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
-[02:00:41] [main/INFO]: Loading 4 mods:
+[20:25:26] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
+[20:25:27] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.14
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.4
-[02:00:41] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server-1.21.4/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:00:47] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:00:49] [main/INFO]: Loaded 1370 recipes
-[02:00:49] [main/INFO]: Loaded 1481 advancements
-[02:00:49] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[02:00:49] [Server thread/INFO]: Loading properties
-[02:00:49] [Server thread/INFO]: Default game type: SURVIVAL
-[02:00:49] [Server thread/INFO]: Generating keypair
-[02:00:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:00:49] [Server thread/INFO]: Using epoll channel type
-[02:00:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:00:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:00:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:00:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:00:49] [Server thread/INFO]: Preparing level "world"
-[02:00:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:00:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:00:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:00:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:00:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:00:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:00:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:00:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:00:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:00:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:00:54] [Server thread/INFO]: Time elapsed: 4434 ms
-[02:00:54] [Server thread/INFO]: Done (4.740s)! For help, type "help"
-[02:01:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:25:27] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server-1.21.4/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:25:35] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:25:38] [main/INFO]: Loaded 1370 recipes
+[20:25:38] [main/INFO]: Loaded 1481 advancements
+[20:25:38] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[20:25:38] [Server thread/INFO]: Loading properties
+[20:25:38] [Server thread/INFO]: Default game type: SURVIVAL
+[20:25:38] [Server thread/INFO]: Generating keypair
+[20:25:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:25:39] [Server thread/INFO]: Using epoll channel type
+[20:25:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:25:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:25:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:25:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:25:39] [Server thread/INFO]: Preparing level "world"
+[20:25:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:25:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:25:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:25:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:25:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:25:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:25:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:25:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:25:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:25:44] [Worker-Main-1/INFO]: Preparing spawn area: 46%
+[20:25:44] [Server thread/INFO]: Time elapsed: 4297 ms
+[20:25:44] [Server thread/INFO]: Done (5.007s)! For help, type "help"
+[20:26:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
