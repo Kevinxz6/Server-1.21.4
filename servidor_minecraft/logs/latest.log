@@ -1,7 +1,18 @@
-[19:51:48] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
-[19:51:48] [main/INFO]: Loading 4 mods:
-	- fabricloader 0.16.14
-	   \-- mixinextras 0.4.1
-	- java 21
-	- minecraft 1.21.4
-[19:51:48] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server-1.21.4/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:53:43] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
+[19:53:43] [main/WARN]: Mod resolution failed
+[19:53:43] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE viaversion 5.0.0 {depends viafabric @ [>=0.4.10]}, ROOT_FORCELOAD_SINGLE viaversion 5.0.0]
+[19:53:43] [main/INFO]: Reason: [HARD_DEP viaversion 5.0.0 {depends viafabric @ [>=0.4.10]}]
+[19:53:43] [main/INFO]: Fix: add [add:viafabric 0.4.10 ([[0.4.10,∞)])], remove [], replace []
+[19:53:43] [main/ERROR]: Incompatible mods found!
+net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
+A potential solution has been determined, this may resolve your problem:
+	 - Install viafabric, version 0.4.10 or later.
+More details:
+	 - Mod 'ViaVersion' (viaversion) 5.0.0 requires version 0.4.10 or later of viafabric, which is missing!
+	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:196) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:146) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:68) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.3]
