@@ -9,16 +9,16 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "financial-dollar.gl.joinmc.link",
-          "assigned_srv": "financial-dollar.gl.joinmc.link",
+          "assigned_domain": "saturday-li.gl.joinmc.link",
+          "assigned_srv": "saturday-li.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "032bff23-da16-4092-a083-9495d5bfe819",
+          "id": "e32b7a90-e1da-43f7-a8bb-8fbced4f1244",
           "ip_hostname": "29.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 18268,
-          "port_start": 18267,
+          "port_end": 52395,
+          "port_start": 52394,
           "region": "global",
           "static_ip4": "147.185.221.29",
           "static_ip6": "2602:fbaf:0:1::1d",
@@ -26,17 +26,17 @@
         },
         "status": "allocated"
       },
-      "created_at": "2025-06-09T21:57:58.575907Z",
+      "created_at": "2025-06-28T19:16:32.045742Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "b1a462c6-5ac9-4c58-8bc7-0f3e8f50a894",
+      "id": "c5fd0e24-0d10-427e-a589-be968f5729df",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "83d16951-578a-4ba9-a9ff-308778cf6648",
-          "agent_name": "NotKausaSAP",
+          "agent_id": "02235961-7b1c-4845-a750-338a4091d98f",
+          "agent_name": "kevin",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
